@@ -23,7 +23,7 @@ The post content is fully customisable and uses standard vBulletin BBCode, as if
 
 == Frequently Asked Questions ==
 
-= What format does the Forum ID list take? ==
+= What format does the Forum ID list take? =
 
 The Forum IDs to be posted in are formatted like so:
 WP_CATEGORY_ID:VB_FORUM_ID
@@ -44,8 +44,11 @@ Yes, all vB BBCode is parsed automatically.
 
 == Changelog ==
 
-= 0.5 =
+= 1.0 =
 * Initial public release
+
+= 0.5 =
+* Initial private release
 
 == Upgrade Notice ==
 
