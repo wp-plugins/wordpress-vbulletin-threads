@@ -28,6 +28,7 @@ License: GPL2
 add_action('admin_menu', 'wpvbt_admin_menu');
 add_action('admin_init', 'wpvbt_settings');
 add_action('publish_post', 'wpvbt_exec');
+// Needed for some random vB reason
 define('THIS_SCRIPT', 'wpvbthreads');
 
 // Admin Functions
