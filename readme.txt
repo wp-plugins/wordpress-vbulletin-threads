@@ -17,9 +17,9 @@ You may specify the forum to post the thread in, which WordPress categories to d
 The post content is fully customisable and uses standard vBulletin BBCode, as if you were posting from within your forum.
 
 Useful Links:
-* [WhatNiche Support Forum](http://forums.whatniche.com/forumdisplay.php?f=39 "WhatNiche Support Forum")
-* [WhatNiche](http://www.whatniche.com/)
-* [Dev Page](http://dev.whatniche.com/)
+* <a href="http://forums.whatniche.com/forumdisplay?f=39" title="WhatNiche Support">WhatNiche Support Forum</a>
+* <a href="http://www.whatniche.com/" title="WhatNiche">WhatNiche</a>
+* <a href="http://dev.whatniche.com/" title="Dev Page">Dev Page</a>
 
 == Installation ==
 
