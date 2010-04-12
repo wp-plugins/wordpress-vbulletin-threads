@@ -18,7 +18,7 @@ The post content is fully customisable and uses standard vBulletin BBCode, as if
 
 Useful Links:
 
-* <a href="http://forums.whatniche.com/forumdisplay?f=39" title="WhatNiche Support">WhatNiche Support Forum</a>
+* <a href="http://forums.whatniche.com/forumdisplay.php?f=39" title="WhatNiche Support">WhatNiche Support Forum</a>
 * <a href="http://www.whatniche.com/" title="WhatNiche">WhatNiche</a>
 * <a href="http://dev.whatniche.com/" title="Dev Page">Dev Page</a>
 
